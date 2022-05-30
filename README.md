@@ -11,9 +11,6 @@
 ## Files
 - `dataset2.py`    
   데이터를 전처리, train/test split, upsampling 해주며, 모델의 input 형식에 알맞게 변환해줍니다.
-
-- `inference2.py`   
-  Output값을 통해 정답 파일을 도출합니다.
   
 - `load.py`   
   Pretrained language model과 Tokenizer를 불러옵니다.
